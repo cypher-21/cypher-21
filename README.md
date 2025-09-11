@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Intelligent Web Application Firewall (AI-WAF)**
 
-- 👨‍💻 All of my projects are available at [parosh.vercel.app](parosh.vercel.app)
+- 👨‍💻 All of my projects are available at https://parosh.vercel.app/
 
 - 💬 Ask me about **Linux, Networking, Security Tools**
 
