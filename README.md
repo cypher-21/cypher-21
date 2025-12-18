@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cypher-21&label=Profile%20views&color=0e75b6&style=flat" alt="cypher-21" /> </p>
 
-- 🌱 I’m currently learning **Penetration Testing & Bug Bounty Hunting , Web Application Pentesting (Burp Suite, PortSwigger Labs)**
+- 🌱 I’m currently learning **Penetration Testing & Bug Hunting , Web Application Pentesting (Burp Suite, PortSwigger Labs)**
 
 - 👯 I’m looking to collaborate on **Intelligent Web Application Firewall (AI-WAF)**
 
-- 👨‍💻 All of my projects are available at https://parosh.vercel.app/
+- 👨‍💻 All of my projects are available at https://parosh.site/
 
 - 💬 Ask me about **Linux, Networking, Security Tools**
 
