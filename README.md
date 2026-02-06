@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Intelligent Web Application Firewall (AI-WAF)**
 
-- 👨‍💻 All of my projects are available at [https://parosh.site/](https://www.rootsec.in/projects)
+- 👨‍💻 All of my projects are available at [RootSec](https://www.rootsec.in/projects)
 
 - 💬 Ask me about **Linux, Networking, Security Tools**
 
