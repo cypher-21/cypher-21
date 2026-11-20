@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://rootsec.in/"><img src="https://img.shields.io/badge/RootSec.in-111111?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>&nbsp;
-  <a href="https://linkedin.com/in/parosh-biswas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://linkedin.com/in/parosh-sec"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://github.com/cypher-21"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
   <a href="https://profile.hackthebox.com/profile/01a0616f-07c2-70f9-9269-6fb4e9bcfb3c"><img src="https://img.shields.io/badge/HackTheBox-Profile-11cc11?style=flat-square&logo=hackthebox&logoColor=white" alt="HackTheBox" /></a>&nbsp;
   <a href="https://tryhackme.com/p/rootcypher"><img src="https://img.shields.io/badge/TryHackMe-rootcypher-red?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>&nbsp;
